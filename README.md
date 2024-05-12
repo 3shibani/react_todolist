@@ -1,8 +1,8 @@
 Name : Shibani Panda 
 id : ICOD7617 
 domain : web development 
-duration : 05th MAY 2024 to 05th JUNE 2024 m
-entor : sravani gouni 
+duration : 05th MAY 2024 to 05th JUNE 2024 
+mentor : sravani gouni 
 description : 
 A to-do list is a simple yet powerful tool for organizing tasks, managing time, and increasing productivity. It serves as a roadmap for daily, weekly, or long-term goals, ensuring that important tasks are not forgotten and allowing individuals to prioritize their activities effectively.
 
